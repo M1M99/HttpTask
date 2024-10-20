@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|c:\\users\\asus\\downloads\\serversqlhttp\\serversqlhttp\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|solutionrelative:serversqlhttp\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|c:\\users\\asus\\downloads\\serversqlhttp\\serversqlhttp\\htmlmessages\\addsimplepage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|solutionrelative:serversqlhttp\\htmlmessages\\addsimplepage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|c:\\users\\asus\\downloads\\serversqlhttp\\serversqlhttp\\htmlmessages\\alluser.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|solutionrelative:serversqlhttp\\htmlmessages\\alluser.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|c:\\users\\asus\\downloads\\serversqlhttp\\serversqlhttp\\htmlmessages\\deleteuser.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|solutionrelative:serversqlhttp\\htmlmessages\\deleteuser.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|c:\\users\\asus\\downloads\\serversqlhttp\\serversqlhttp\\htmlmessages\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|solutionrelative:serversqlhttp\\htmlmessages\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|c:\\users\\asus\\downloads\\serversqlhttp\\serversqlhttp\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|solutionrelative:serversqlhttp\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|c:\\users\\asus\\downloads\\serversqlhttp\\serversqlhttp\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|solutionrelative:serversqlhttp\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|c:\\users\\asus\\downloads\\serversqlhttp\\serversqlhttp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|solutionrelative:serversqlhttp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|c:\\users\\asus\\downloads\\serversqlhttp\\serversqlhttp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAD86A2-4AEB-449B-97B1-643415C55EE6}|ServerSqlHttp\\ServerSqlHttp.csproj|solutionrelative:serversqlhttp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\User.cs",
+              "RelativeDocumentMoniker": "ServerSqlHttp\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\User.cs",
+              "RelativeToolTip": "ServerSqlHttp\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:33:55.414Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\DbContext.cs",
+              "RelativeDocumentMoniker": "ServerSqlHttp\\DbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\DbContext.cs",
+              "RelativeToolTip": "ServerSqlHttp\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:42:51.84Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllUser.html",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\HtmlMessages\\AllUser.html",
+              "RelativeDocumentMoniker": "ServerSqlHttp\\HtmlMessages\\AllUser.html",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\HtmlMessages\\AllUser.html",
+              "RelativeToolTip": "ServerSqlHttp\\HtmlMessages\\AllUser.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-20T14:02:23.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteUser.html",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\HtmlMessages\\DeleteUser.html",
+              "RelativeDocumentMoniker": "ServerSqlHttp\\HtmlMessages\\DeleteUser.html",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\HtmlMessages\\DeleteUser.html",
+              "RelativeToolTip": "ServerSqlHttp\\HtmlMessages\\DeleteUser.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-18T11:46:49.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddSimplePage.html",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\HtmlMessages\\AddSimplePage.html",
+              "RelativeDocumentMoniker": "ServerSqlHttp\\HtmlMessages\\AddSimplePage.html",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\HtmlMessages\\AddSimplePage.html",
+              "RelativeToolTip": "ServerSqlHttp\\HtmlMessages\\AddSimplePage.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-17T17:28:13.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\Server.cs",
+              "RelativeDocumentMoniker": "ServerSqlHttp\\Server.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\Server.cs",
+              "RelativeToolTip": "ServerSqlHttp\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:42:01.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "404.html",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\HtmlMessages\\404.html",
+              "RelativeDocumentMoniker": "ServerSqlHttp\\HtmlMessages\\404.html",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\HtmlMessages\\404.html",
+              "RelativeToolTip": "ServerSqlHttp\\HtmlMessages\\404.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-17T17:06:55.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HttpServer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\HttpServer.cs",
+              "RelativeDocumentMoniker": "ServerSqlHttp\\HttpServer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\HttpServer.cs",
+              "RelativeToolTip": "ServerSqlHttp\\HttpServer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:39:07.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\Program.cs",
+              "RelativeDocumentMoniker": "ServerSqlHttp\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\ServerSqlHttp\\ServerSqlHttp\\Program.cs",
+              "RelativeToolTip": "ServerSqlHttp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:36:15.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
